@@ -1,6 +1,6 @@
 # Projet-de-base-de-donnes-filiere-informatique-S4
 🏨 Gestion Hôtelière
-Cette application web permet une gestion complète des opérations d'un hôtel à travers une interface intuitive. Développée avec Python et Streamlit, elle s'appuie sur une base de données SQLite3 pour un stockage fiable des données.
+- Cette application web permet une gestion complète des opérations d'un hôtel à travers une interface intuitive. Développée avec Python et Streamlit, elle s'appuie sur une base de données SQLite3 pour un stockage fiable des données.
 
 ## Fonctionnalités Principales
 - Module:	        Fonctionnalités
